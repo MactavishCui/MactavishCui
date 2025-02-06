@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MactavishCui
 - 👀 I’m currently working on [Dinky](https://github.com/DataLinkDC/dinky)
-- 📫 How to reach me: MactavishCui@163.com
+- 📫 How to reach me E-mail:MactavishCui@163.com, Wechat: Mactavish_Cui
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MactavishCui&show_icons=true&theme=radical)
 
